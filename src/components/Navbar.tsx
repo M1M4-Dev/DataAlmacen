@@ -189,7 +189,7 @@ export const Navbar: React.FC<NavbarProps> = ({
               className="hidden sm:flex items-center gap-1.5 px-2.5 py-1.5 text-xs text-slate-500 hover:text-slate-800 transition-colors border border-slate-200 rounded hover:bg-slate-50"
             >
               <RefreshCw className="w-3.5 h-3.5" />
-              <span>Demo</span>
+              <span>Prueba</span>
             </button>
 
             <button
